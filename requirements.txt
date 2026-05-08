@@ -1,0 +1,22 @@
+# Derin Öğrenme Framework'leri
+tensorflow>=2.15.0
+keras>=2.15.0
+
+# Veri İşleme
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=10.0.0
+
+# Görselleştirme
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Makine Öğrenmesi Yardımcıları
+scikit-learn>=1.3.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Kaggle API (veri seti indirme)
+kaggle>=1.5.16
